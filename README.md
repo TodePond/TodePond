@@ -11,6 +11,8 @@ THIS IS WHAT I DO:<br>
 Please consider joining the exclusive club of <a href="https://patreon.com/todepond">Froggy Heroes</a> to support me.<br>
 Together, we can create bigger and better things! 🏆🐸
 
+By the way, here's some of the stuff I'm making:
+
 ## Engines
 | <a href="https://github.com/l2wilson94/sandpond"><img src="http://todepond.com/IMG/SandPond@0.25x.png?"><br>SandPond</a> | <a href="https://github.com/l2wilson94/timepond"><img src="http://todepond.com/IMG/TimePond@0.25x.png"><br>TimePond</a> |
 |:-----------------------------------------------------------------------:|---|
