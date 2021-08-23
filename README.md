@@ -3,7 +3,7 @@
 Hi, I'm Luke and I make <a href="https://www.youtube.com/c/TodePond">videos</a> about my creative coding projects.<br>
 My goal is to bring some joy into the world, and to inspire people to think outside the box!<br>
 
-THIS IS MY PROMISE:<br>
+THIS IS WHAT I DO:<br>
 🐸 New Video Every **Month** (on <a href="https://www.youtube.com/c/TodePond">youtube</a>)<br>
 🐸 New Update Every **Week** (on <a href="https://patreon.com/todepond">patreon</a>)<br>
 🐸 New Clip Every **Day** (on <a href="https://twitter.com/todepond">twitter</a> + <a href="https://instagram.com/todepond">instagram</a>)<br>
