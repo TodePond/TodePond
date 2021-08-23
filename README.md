@@ -8,7 +8,7 @@ THIS IS WHAT I DO:<br>
 🐸 New Update Every **Week** (on <a href="https://patreon.com/todepond">patreon</a>)<br>
 🐸 New Clip Every **Day** (on <a href="https://twitter.com/todepond">twitter</a> + <a href="https://instagram.com/todepond">instagram</a>)<br>
 
-Please consider joining the exclusive club of <a href="https://patreon.com/todepond">Froggy Heroes</a> to help me on my mission.<br>
+Please consider joining the exclusive club of <a href="https://patreon.com/todepond">Froggy Heroes</a> to support me.<br>
 Together, we can create bigger and better things! 🏆🐸
 
 ## Engines
