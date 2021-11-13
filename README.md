@@ -1,17 +1,13 @@
 🌱🐸🌱
 
 Hi, I'm Luke and I make <a href="https://www.youtube.com/c/TodePond">videos</a> about my creative coding projects.<br>
-My goal is to bring some joy into the world, and to inspire people to think outside the box!<br>
 
-THIS IS WHAT I DO:<br>
+**THIS IS WHAT I DO**<br>
 🐸 New Video Every **Month** (on <a href="https://www.youtube.com/c/TodePond">youtube</a>)<br>
 🐸 New Update Every **Week** (on <a href="https://patreon.com/todepond">patreon</a>)<br>
 🐸 New Clip Every **Day** (on <a href="https://twitter.com/todepond">twitter</a> + <a href="https://instagram.com/todepond">instagram</a>)<br>
 
-Please consider joining the exclusive club of <a href="https://patreon.com/todepond">Froggy Heroes</a> to support me.<br>
-Together, we can create bigger and better things! 🏆🐸
-
-By the way, here's some of the stuff I'm making:
+Please consider joining the exclusive club of <a href="https://patreon.com/todepond">Froggy Heroes</a> to support me. 🏆🐸
 
 ## Engines
 | <a href="https://github.com/l2wilson94/sandpond"><img src="http://todepond.com/IMG/SandPond@0.25x.png?"><br>SandPond</a> | <a href="https://github.com/l2wilson94/timepond"><img src="http://todepond.com/IMG/TimePond@0.25x.png"><br>TimePond</a> |
