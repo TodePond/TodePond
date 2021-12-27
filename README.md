@@ -1,6 +1,6 @@
 🌱🐸🌱
 
-Hi, I'm Luke and I make <a href="https://www.youtube.com/c/TodePond">videos</a> about my creative coding projects.<br>
+Hi, I'm Lu and I make <a href="https://www.youtube.com/c/TodePond">videos</a> about my creative coding projects.<br>
 
 **THIS IS WHAT I DO**<br>
 🐸 New Video Every **Month** (on <a href="https://www.youtube.com/c/TodePond">youtube</a>)<br>
