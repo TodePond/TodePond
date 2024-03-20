@@ -15,6 +15,6 @@ Please consider joining the exclusive club of <a href="https://patreon.com/todep
 My best repos:
 - [Screenpond](https://github.com/TodePond/Screenpond)
 - [Cellpond](https://github.com/TodePond/Cellpond)
-- [Sandpond](https://github.com/TodePond/Screenpond)
+- [Sandpond](https://github.com/TodePond/Sandpond)
 - [Arroost](https://github.com/TodePond/Arroost)
 - [Dreamberd](https://github.com/TodePond/Dreamberd)
